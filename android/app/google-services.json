@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "821492575545",
+    "firebase_url": "https://care-alert-ef06f-default-rtdb.firebaseio.com",
+    "project_id": "care-alert-ef06f",
+    "storage_bucket": "care-alert-ef06f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:821492575545:android:db3de9bc62b39fbf3f8ce8",
+        "android_client_info": {
+          "package_name": "com.example.care_alert_admin"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXG_84-NyUUgeuBCKPht4WjeBUxRUASro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
